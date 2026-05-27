@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdarse",
+        "uuid": 11840710,
+        "checksum": "s0m9m4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
